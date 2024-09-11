@@ -1,6 +1,7 @@
 <div style="font-family: Arial, sans-serif; font-size: 16px; color: #333;">
 
-    <p style="margin: 0;"><strong>Ravi Kilnake</strong></p>
+    <p style="margin: 0; font-size: 14px;">Med vänliga hälsningar/ Warm Regards</p>
+    <p style="margin: 20px 0 0 0;font-size: 20px;"><strong>Ravi Kilnake</strong></p>
     <p style="margin: 5px 0 0 0;">Microsoft Certified Azure Technician</p>
 
 
@@ -15,7 +16,6 @@
     </p>
 
      <hr style="border: none; border-top: 1px solid #999; width: 25%; margin: 10px 0;">
-
 
     <p style="margin: 5px 0;">
         <a href="https://www.linkedin.com/in/kilnake" target="_blank" style="text-decoration: none;">
