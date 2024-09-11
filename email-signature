@@ -1,0 +1,34 @@
+<div style="font-family: Arial, sans-serif; font-size: 16px; color: #333;">
+
+    <p style="margin: 0;"><strong>Ravi Kilnake</strong></p>
+    <p style="margin: 5px 0 0 0;">Microsoft Certified Azure Technician</p>
+
+
+    <p style="margin: 5px 0;">
+        <img src="https://raw.githubusercontent.com/kilnake/ravi/main/svg/microsoft-certified-associate-badge.svg" alt="sc300" width="auto" height="30">
+        <img src="https://raw.githubusercontent.com/kilnake/w3school/main/certs/ms900.svg" alt="sc900" width="auto" height="30">
+        <img src="https://raw.githubusercontent.com/kilnake/w3school/main/certs/ms900.svg" alt="az900" width="auto" height="30">
+        <img src="https://raw.githubusercontent.com/kilnake/w3school/main/certs/ms900.svg" alt="ms900" width="auto" height="30">
+        <img src="https://raw.githubusercontent.com/kilnake/ravi/main/svg/cisco.svg" alt="cisco" width="auto" height="30">
+        <img src="https://raw.githubusercontent.com/kilnake/ravi/main/svg/APNIC_logo.svg" alt="apnic" width="auto" height="30">
+        <img src="https://raw.githubusercontent.com/kilnake/ravi/main/svg/winserver.svg" alt="winserver" width="auto" height="30">
+    </p>
+
+     <hr style="border: none; border-top: 1px solid #999; width: 25%; margin: 10px 0;">
+
+
+    <p style="margin: 5px 0;">
+        <a href="https://www.linkedin.com/in/kilnake" target="_blank" style="text-decoration: none;">
+            <img src="https://raw.githubusercontent.com/kilnake/w3school/main/pics/linkedin.svg" alt="LinkedIn" width="20" height="20" style="margin-right: 5px;">
+        </a>
+        <a href="https://kilnake.github.io" target="_blank" style="text-decoration: none;">
+            <img src="https://raw.githubusercontent.com/kilnake/w3school/main/pics/hindi.svg" alt="Blog" width="20" height="20" style="margin-right: 5px;">
+        </a>
+        <a href="https://github.com/kilnake" target="_blank" style="text-decoration: none;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="20" height="20" style="margin-right: 5px;">
+        </a>
+        <a href="https://kilnake.pages.dev" target="_blank" style="text-decoration: none;">
+            <img src="https://raw.githubusercontent.com/kilnake/ravi/main/svg/cv.svg" alt="CV" width="20" height="20" style="margin-right: 5px;">
+        </a>
+    </p>
+</div>
